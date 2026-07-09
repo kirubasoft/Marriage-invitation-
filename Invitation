@@ -1,1 +1,41 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Samuel David ❤️ Stella Mary</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="envelope" id="openCard">
+  <h2>💌 Wedding Invitation</h2>
+  <p>Tap to Open</p>
+</div>
+
+<div class="card" id="card">
+
+  <h1>Samuel David ❤️ Stella Mary</h1>
+
+  <img src="couple.jpg" alt="Couple Photo">
+
+  <h3>With the Blessings of God</h3>
+
+  <p>📅 07 September 2026 (Monday)</p>
+  <p>🕖 7:00 AM – 10:00 AM (Morning)</p>
+
+  <p><b>Reception:</b> SKS Mahal</p>
+
+  <a href="https://maps.app.goo.gl/T1invJTkAvfR1heA8?g_st=ac" target="_blank">
+    📍 Get Directions
+  </a>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
